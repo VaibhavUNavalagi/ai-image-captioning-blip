@@ -31,13 +31,15 @@ Image captioning is a multimodal deep learning task that combines **computer vis
 
 ## 📂 Project Structure
 
+```text
 ai-image-captioning-blip/
-    ├── image_captioning_app.py   # Main Gradio-based web application
-    ├── image_cap.py              # Standalone script for image caption generation
-    ├── hello.py                  # Gradio quickstart demo
-    ├── requirements.txt          # List of required dependencies
-    ├── images.jpg                # Sample image for testing (optional)
-    └── README.md                 # Project documentation
+├── image_captioning_app.py   # Main Gradio-based web application
+├── image_cap.py              # Standalone script for image caption generation
+├── hello.py                  # Gradio quickstart demo
+├── requirements.txt          # List of required dependencies
+├── images.jpg                # Sample image for testing (optional)
+└── README.md                 # Project documentation
+```
 
 ---
 
@@ -57,8 +59,6 @@ ai-image-captioning-blip/
    ```bash
    python image_captioning_app.py
    
----
-
 ---
 
 ## ⚙️ Results & Demonstration
