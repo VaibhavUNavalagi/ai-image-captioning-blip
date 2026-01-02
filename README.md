@@ -56,6 +56,38 @@ ai-image-captioning-blip/
    Launch the Gradio web app using:
    ```bash
    python image_captioning_app.py
+   
+---
+
+---
+
+## ⚙️ Results & Demonstration
+
+The following examples showcase the performance of the AI-powered image captioning system. The BLIP vision–language model successfully interprets visual content and generates meaningful, context-aware natural-language descriptions in real time through the Gradio web interface.
+
+---
+
+### 🖼️ Example 1: Text-based Visual Understanding
+
+This example demonstrates the model’s ability to recognize objects and read visible text within an image. The system correctly identifies the scene and generates a descriptive caption capturing both the object type and the textual content.
+
+<img width="1919" height="1014" alt="Image Captioning Output - Example 1" src="https://github.com/user-attachments/assets/d6660623-798d-4dc2-84ca-af15592817b9" />
+
+---
+
+### 🖼️ Example 2: Complex Scene Interpretation
+
+In this example, the model analyzes a dynamic and visually complex scene. It extracts key entities, actions, and contextual details to generate a concise natural-language description, highlighting the model’s capability in real-world visual understanding scenarios.
+
+<img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/20382263-643b-48ab-aaf9-7e479e098f11" />
+
+---
+
+📌 *These results demonstrate the effectiveness of multimodal deep learning by combining computer vision and natural language processing to generate human-like image descriptions.*
+
+---
+
+
 
 👤 Author
 
