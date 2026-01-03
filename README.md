@@ -50,11 +50,17 @@ ai-image-captioning-blip/
    git clone https://github.com/VaibhavUNavalagi/ai-image-captioning-blip.git
    cd ai-image-captioning-blip
 
-2. Install dependencies:
+2. Set up your virtual environment:
+   ```bash
+   pip3 install virtualenv
+   virtualenv my_env 
+   source my_env/bin/activate 
+
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
-3. Running the Application
+4. Running the Application
    Launch the Gradio web app using:
    ```bash
    python image_captioning_app.py
