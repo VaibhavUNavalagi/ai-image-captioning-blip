@@ -18,6 +18,8 @@ Image captioning is a multimodal deep learning task that combines **computer vis
 - Interactive web interface built with Gradio
 - Clean and modular Python implementation
 
+<img width="978" height="533" alt="Image" src="https://github.com/user-attachments/assets/186e7fb8-4c5d-42d2-95ba-777a6aa3f64b" />
+
 ---
 
 ## 🛠️ Tech Stack
